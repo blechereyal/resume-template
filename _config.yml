@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Eyal Blecher"
 resume_title:                   "Full Stack developer"
 resume_contact_email:
@@ -35,11 +35,11 @@ resume_section_associations:    false
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/blechereyal"
-  resume_twitter_url:           "http://twitter.com/blechereyal"
+  # resume_twitter_url:           "http://twitter.com/blechereyal"
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/blechereyal"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://eyalblecher.me"
+  # resume_website_url:           "http://eyalblecher.me"
 
 # Design settings
 resume_theme:                   default
